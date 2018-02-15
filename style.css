@@ -1,0 +1,25 @@
+body {
+    font-family:"Berkshire Swash";
+    background-image: url(https://www.xmple.com/wallpaper/gradient-purple-black-linear-1920x1080-c2-000000-8b008b-a-270-f-14.svg);
+    color:gold;
+    font-size: 20px;
+    
+}
+
+
+h1 {
+    background-color: blueviolet;
+    border-style: groove;
+    border-width: 5px;
+    border-color: goldenrod;
+    width:62%;
+    text-align: center;
+    font-size: 144%
+}
+
+h5{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 2px;
+    font-size: 20px;
+    
+}
